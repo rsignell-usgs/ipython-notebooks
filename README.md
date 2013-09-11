@@ -9,4 +9,4 @@ All of these notebooks can be viewed in the nbviewer application by going to nbv
 http://nbviewer.ipython.org/urls/raw.github.com/rsignell-usgs/ipython-notebooks/master/CSW_ISO_Queryables-NGDC.ipynb
 
  * Visualizing forecast ocean surface currents from an unstructured grid ocean model (IOOS NERACOOS Region):
-http://nbviewer.ipython.org/urls/raw.github.com/rsignell-usgs/ipython-notebooks/blob/master/FVCOM_depth_and_velocity.ipynb
+http://nbviewer.ipython.org/urls/raw.github.com/rsignell-usgs/ipython-notebooks/master/FVCOM_depth_and_velocity.ipynb
