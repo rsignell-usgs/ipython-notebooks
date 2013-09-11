@@ -10,3 +10,6 @@ http://nbviewer.ipython.org/urls/raw.github.com/rsignell-usgs/ipython-notebooks/
 
  * Visualizing forecast ocean surface currents from an unstructured grid ocean model (IOOS NERACOOS Region):
 http://nbviewer.ipython.org/urls/raw.github.com/rsignell-usgs/ipython-notebooks/master/FVCOM_depth_and_velocity.ipynb
+
+ * Using the British Met Office Iris package to visualize multiple IOOS Ocean Model forecasts
+http://nbviewer.ipython.org/urls/raw.github.com/rsignell-usgs/ipython-notebooks/master/IOOS%2520Models.ipynb
