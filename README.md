@@ -1,9 +1,9 @@
 ipython-notebooks
 =================
 
-** Note that this a collection of older notebooks, now 3-4 years old ** 
+**Note that this a collection of older notebooks, now 3-4 years old** 
 
-** Go to http://github.com/rsignell-usgs/notebook for newer notebooks.  
+**Go to http://github.com/rsignell-usgs/notebook for newer notebooks.**  
 
 I'm only leaving these here because I've passed out some NBviewer links, such as the ones below, and don't want these to break.
 
