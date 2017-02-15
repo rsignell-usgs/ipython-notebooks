@@ -1,8 +1,11 @@
 ipython-notebooks
 =================
 
-A collection of older notebooks, most demonstrating standards-based access of ocean model output and ocean data. 
-Lately I've been putting notebooks in the repo http://github.com/rsignell-usgs/notebook but I'm leaving these here because I've passed out some NBviewer links, such as the ones below, and don't want these to break.
+** Note that this a collection of older notebooks, now 3-4 years old ** 
+
+** Go to http://github.com/rsignell-usgs/notebook for newer notebooks.  
+
+I'm only leaving these here because I've passed out some NBviewer links, such as the ones below, and don't want these to break.
 
 All of these notebooks can be viewed in the nbviewer application by going to nbviewer.ipython.org and entering the raw github url.  Some examples:
 
